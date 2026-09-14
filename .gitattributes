@@ -1,0 +1,7 @@
+# Preserve document offsets and binary assets across Windows checkouts.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pfb binary
+*.ttf binary
